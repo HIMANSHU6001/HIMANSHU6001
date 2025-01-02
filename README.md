@@ -21,6 +21,9 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+
+
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
